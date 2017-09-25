@@ -1,1 +1,1 @@
-# image_classification
+# DLND_image_classification
